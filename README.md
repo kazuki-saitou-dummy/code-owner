@@ -1,4 +1,4 @@
 # code-owner
 
 Code Ownerをテストするためのものです。
-チームにCode Ownerする。
+個人あてに戻す
